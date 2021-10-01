@@ -7,5 +7,5 @@ func Hola() {
 }
 
 func Comen() {
-	fmt.Println("Los gatos coment pajaritos")
+	fmt.Println("Los gatos comen pàjaritos")
 }
